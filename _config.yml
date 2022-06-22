@@ -85,6 +85,6 @@ exclude:
   - README.md
   - CNAME
 
-futrue: true
+future: true
 
 published: true
